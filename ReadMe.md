@@ -12,23 +12,6 @@ Welcome to my game design and development portfolio! This repository contains al
 └── 📄 README.md
 ```
 
-## 🎯 Projects Overview
-
-### 🏆 [Game Project 1]
-**Status:** Complete | **Genre:** [Genre] | **Engine:** Godot  
-Brief description of the game and its main features.  
-**[Play Demo]** | **[View Code]**
-
-### ⚡ [Game Project 2]
-**Status:** Prototype | **Genre:** [Genre] | **Engine:** Godot  
-Brief description of the prototype and mechanics explored.  
-**[Play Demo]** | **[View Code]**
-
-### 🎪 [Game Project 3]
-**Status:** Game Jam Entry | **Genre:** [Genre] | **Engine:** Godot  
-Brief description and jam theme.  
-**[Play Demo]** | **[View Code]**
-
 ## 🛠️ Technologies and Tools
 
 ### Game Engine
@@ -37,41 +20,11 @@ Brief description and jam theme.
 ### Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="32" alt="GDScript"> **GDScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" alt="Java"> **Java**
 
-## 🎮 Project Structure
-
-Each game project folder contains:
-- `README.md` - Detailed project description
-- `project.godot` - Godot project file
-- `src/` or `scripts/` - GDScript source files
-- `assets/` - Game assets (sprites, sounds, etc.)
-- `docs/` - Design documents and notes
-- `screenshots/` - Screenshots and gameplay GIFs
-- `builds/` - Exported game builds (if available)
-
-## 🎨 Explored Genres
-
-- **2D Platformers** - [List related projects]
-- **Puzzle Games** - [List related projects]
-- **Action Games** - [List related projects]
-- **Experimental** - [List related projects]
-
-## 🚀 Current & Future Projects
-
-### 🔨 In Development
-- [ ] [Project name] - [Brief description]
-
-### 💡 Ideas Backlog
-- [ ] [Game idea 1]
-- [ ] [Game idea 2]
-- [ ] [Game idea 3]
-
 ## 📞 Contact
 
-- **Email:** [your-email]
-- **LinkedIn:** [linkedin-profile]
-- **Twitter:** [twitter-handle]
-- **Portfolio:** [website]
-- **Itch.io:** [itchio-profile]
+- **Email:** [tommasorezzani.wr@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/tommaso-rezzani-6a29b034b]
+- **Portfolio:** [https://linktr.ee/TommasoRezzani]
 
 ## 📝 Licenses
 
